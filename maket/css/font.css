@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(./fonts/Roboto/Roboto-Italic.ttf); /* Путь к файлу со шрифтом */
+    font-weight: 900;
+    font-style: normal;
+   }
